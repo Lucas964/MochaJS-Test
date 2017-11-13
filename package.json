@@ -1,0 +1,26 @@
+{
+  "name": "mochajs-chai-tut-1",
+  "version": "1.0.0",
+  "description": "Simple app for testing ",
+  "main": "app.js",
+  "dependencies": {
+    "chai-http": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^4.0.1"
+  },
+  "scripts": {
+    "test": "mocha  || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas964/MochaJS-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucas964/MochaJS-Test/issues"
+  },
+  "homepage": "https://github.com/Lucas964/MochaJS-Test#readme"
+}
